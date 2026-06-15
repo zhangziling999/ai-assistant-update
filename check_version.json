@@ -1,5 +1,6 @@
 {
   "version_code": 2,
   "version_name": "1.0.1",
-  "update_desc": "1.新增软件在线更新功能\n2.优化文档解析\n3.修复聊天记录bug"
+  "update_desc": "1.新增软件在线更新功能\n2.优化文档解析\n3.修复聊天记录bug",
+  "apk_url": "https://raw.githubusercontent.com/zhangziling99/ai-assistant-update/main/app-release.apk"
 }
